@@ -1,0 +1,6 @@
+framework module Pods_pushAlertSample_pushAlertSampleUITests {
+  umbrella header "Pods-pushAlertSample-pushAlertSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
