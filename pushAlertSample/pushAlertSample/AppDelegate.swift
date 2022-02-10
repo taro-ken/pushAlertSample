@@ -24,16 +24,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         return true
     }
- 
-    // MARK: UISceneSession Lifecycle
- 
-//    func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
-//
-//    }
-//
-//    func application(_ application: UIApplication, didDiscardSceneSessions sceneSessions: Set<UISceneSession>) {
-//
-//    }
 }
  
 // 通知を受け取ったときの処理

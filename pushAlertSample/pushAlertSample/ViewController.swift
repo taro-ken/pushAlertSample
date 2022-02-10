@@ -11,12 +11,10 @@ import UIKit
 final class ViewController: UIViewController{
     
    
-    @IBOutlet private weak var timeLabel: UILabel!
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        timeLabel.text = time.settingTime
         
     }
   
